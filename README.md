@@ -9,7 +9,7 @@ Building scalable data pipelines and cloud analytics solutions
 
 ## 🚀 About Me
 
-- 💼 Data Engineer with 2+ years of experience at **Quanix IT**
+- 💼 Data Engineer with 4+ years of experience as Data Engineer
 - ⚡ Specialized in **Databricks, PySpark, SQL & Azure Cloud**
 - 🔥 Experienced in building scalable **ETL/ELT pipelines**
 - ☁️ Working with **Delta Lake, Data Warehousing & Big Data**
