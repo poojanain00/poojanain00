@@ -1,116 +1,107 @@
-👋 Hi, I'm Pooja Nain
+# 👋 Hi, I'm Pooja Nain
 
-Data Engineer | Data Analyst | Applied Data Scientist
-Databricks · PySpark · Azure · SQL · Delta Lake · Big Data · Data Governance · Lakehouse Architecture
+### Data Engineer | Data Analyst | Applied Data Scientist  
+Azure · Databricks · PySpark · SQL · Delta Lake · Big Data · Analytics
 
-🚀 Building scalable data platforms, analytics systems, and data science solutions across multiple industries and enterprise data ecosystems.
+> Building scalable data platforms, analytics systems, and multi-domain data solutions.
 
-🚀 About Me
+---
 
-💼 Data professional with 4+ years of experience across Data Engineering, Analytics, and Applied Data Science
-⚡ Strong expertise in Python, SQL, PySpark, Databricks, and Cloud Platforms (Azure & AWS)
-🔥 Experienced in building end-to-end ETL/ELT pipelines, analytics products, and data science workflows
-☁️ Skilled in Lakehouse architecture, Delta Lake, and modern data governance frameworks
-📊 Strong background in data analytics, statistical modelling, and machine learning pipelines
-🎯 Focused on delivering scalable, production-grade, and insight-driven data systems
+## 🔗 Quick Access
 
-🌍 Industry Experience (Multi-Domain)
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/your-profile">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="mailto:poojanain.data@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-Experienced working with diverse datasets and industry domains, including:
+---
 
-🏦 Financial Services (Banking, Credit Risk, Portfolio Analytics)
-🛡️ Insurance (Risk modelling, claims analytics, underwriting data)
-📺 Digital Media & Streaming (engagement, content analytics, user behaviour)
-🛒 Retail & E-commerce (sales analytics, customer behaviour, forecasting)
-🏭 Enterprise & Operations (process analytics, KPI systems, reporting platforms)
-🌐 Cross-domain public & third-party datasets (multi-source data integration)
+## ⚡ About Me
 
-👉 Skilled in adapting data solutions to any industry dataset, schema, or business problem
+- 💼 4+ years in Data Engineering, Analytics & Applied Data Science  
+- 🌍 Experience across Finance, Insurance, Digital Media & Enterprise datasets  
+- ☁️ Strong in Azure, Databricks, AWS, and Lakehouse architecture  
+- 📊 Build end-to-end ETL/ELT pipelines & analytics platforms  
+- 🧠 Strong focus on data quality, governance & scalable systems  
 
-🧠 Core Expertise
-💻 Data Engineering & Programming
+---
 
-Python (Pandas, NumPy, Scikit-learn) · SQL · PySpark · Data Modelling · Feature Engineering · Performance Optimization · Distributed Computing
+## 🧠 Core Expertise
 
-📊 Data Analytics & Data Science
+<p>
 
-Exploratory Data Analysis (EDA) · Statistical Analysis · Time Series Analysis · Regression · Classification · Predictive Analytics · KPI Modelling · Root Cause Analysis
+<img src="https://img.shields.io/badge/Data%20Engineering-ETL%20%7C%20Spark%20%7C%20Databricks-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Science-ML%20%7C%20EDA%20%7C%20Statistics-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Analytics-PowerBI%20%7C%20Tableau-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Lakehouse-Delta%20Lake%20%7C%20Medallion-black?style=flat-square" />
 
-⚙️ Data Engineering Systems
+</p>
 
-ETL / ELT Pipelines · Apache Spark · Databricks · Delta Lake · Medallion Architecture · Apache Airflow · API Integration · Data Warehousing
+---
 
-☁️ Cloud & Data Platforms
+## 🌍 Industry Experience
 
-Azure Databricks · Azure Data Factory · Azure Synapse · ADLS Gen2 · AWS S3 · BigQuery · MongoDB
+<p>
 
-📈 BI & Analytics Products
+<img src="https://img.shields.io/badge/Finance-Risk%20%26%20Credit%20Analytics-blue" />
+<img src="https://img.shields.io/badge/Insurance-Claims%20%26%20Risk%20Models-green" />
+<img src="https://img.shields.io/badge/Digital%20Media-User%20Analytics%20%26%20Engagement-purple" />
+<img src="https://img.shields.io/badge/Retail-Ecommerce%20%26%20Forecasting-orange" />
+<img src="https://img.shields.io/badge/Enterprise-KPI%20%26%20Ops%20Analytics-black" />
 
-Power BI · Tableau · Streamlit · Dash · Data Dashboards · Self-service Analytics · Decision Support Systems
+</p>
 
-🔐 Data Governance & DevOps
+---
 
-Git · CI/CD (Azure DevOps) · Unit Testing (PyTest) · Data Quality Frameworks · Monitoring & Logging · Unity Catalog · Data Lineage · Production Support
+## 💼 Experience Snapshot
 
-💼 Professional Experience
-🟦 Data Engineer — Quantix IT (UK Enterprise Client)
+### 🟦 Quantix IT (UK Client)
+**Data Engineer**
+- Built enterprise-scale Databricks analytics platform  
+- Delivered dashboards used by 2,000+ users  
+- Improved pipeline performance by 40%  
+- Implemented monitoring + governance systems  
 
-Mar 2025 – Present
+---
 
-Built scalable analytics platforms using Python, SQL, PySpark, Databricks, Tableau, Power BI
-Delivered production systems used by 2,000+ daily users across analytics and reporting domains
-Owned full lifecycle: ingestion → transformation → orchestration → deployment → monitoring
-Developed reusable ETL frameworks → improved delivery speed by 40%
-Implemented observability using Azure Monitor + Databricks logging → reduced downtime by 20%
-Built KPI models, statistical analysis pipelines, and time-series analytics systems
-Optimized Spark & SQL performance → improved query speed by 40%
-Ensured production stability using RCA, monitoring, and automated recovery workflows
-Worked across governance frameworks including Delta Lake & Unity Catalog
-🟩 Data Analyst → Data Engineer — Galytix (Multi-Industry Data Systems)
+### 🟩 Galytix (Multi-domain Data Systems)
+**Data Analyst → Data Engineer**
+- Built analytics systems across 30,000+ entities  
+- Designed AI-assisted analytics workflows  
+- Built financial + operational data pipelines  
+- Implemented production-grade monitoring systems  
 
-Jun 2021 – Jan 2025
+---
 
-Built analytics platforms across 30,000+ multi-domain entities
-Designed and delivered dashboards and data products across finance, risk, and enterprise datasets
-Built scalable ETL pipelines integrating:
-Structured enterprise data
-External APIs
-Time-series and event-based datasets
-Developed AI-assisted analytics workflows reducing manual analysis time from hours → minutes
-Applied statistical modelling, feature engineering, and predictive analytics across datasets
-Built production-grade Python frameworks with modular design and Git versioning
-Implemented monitoring, logging, alerting, and RCA systems for data reliability
-Worked with stakeholders across multiple industries and domains to translate business needs into data solutions
-Ensured data quality, governance, and reproducibility standards across pipelines
-🚀 Projects
-📊 Multi-Domain Data Intelligence Platform
-Built end-to-end analytics system using Python, Databricks, and Delta Lake
-Integrated datasets across multiple domains (financial, operational, behavioural, external APIs)
-Designed scalable Medallion architecture (Bronze → Silver → Gold)
-Built unified analytics layer for dashboards and reporting systems
-Enabled cross-domain data insights and decision support systems
-🎓 Education
+## 🚀 Featured Work
 
-🎓 M.Sc. Data Science & Computational Intelligence
-Coventry University, UK
+| Project | Description |
+|--------|-------------|
+| 📊 Multi-Domain Data Platform | Unified analytics system across multiple datasets |
+| ⚙️ ETL Framework | Scalable PySpark + Databricks pipeline architecture |
+| 📈 Analytics Dashboard System | KPI & reporting dashboards for business insights |
 
-Machine Learning · AI · NLP · Big Data · Statistics · Spark · Deep Learning · Data Visualization
+---
 
-🎓 BCA (Computer Applications)
-Guru Jambheshwar University, India
+## 🧰 Tech Stack
 
-Computer Science · Mathematics · Programming Foundations
-
-🏅 Certifications
-Databricks Fundamentals Certification
-Postgraduate Certification in Data Science — IIIT Bangalore
-Data Engineering Certification — Riva Data UK
-📬 Connect With Me
-
-💼 LinkedIn: https://linkedin.com/in/your-profile
-💻 GitHub: https://github.com/your-profile
-📧 Email: poojanain.data@gmail.com
-
-⭐ Closing Statement
-
-“Transforming complex, multi-domain data into scalable, reliable, and insight-driven systems through engineering, analytics, and applied data science.”
+```text
+Languages: Python | SQL | PySpark  
+Cloud: Azure | AWS  
+Data: Databricks | Delta Lake | Spark  
+BI: Power BI | Tableau | Streamlit  
+Engineering: ETL/ELT | Airflow | CI/CD  
