@@ -1,128 +1,116 @@
-<h1 align="center">👋 Hi, I' am Pooja Nain</h1>
-<h3 align="center">Data Engineer | Databricks | PySpark | Azure | SQL | Big Data | Lakehouse & Governance</h3>
+👋 Hi, I'm Pooja Nain
 
-<p align="center">
-Building scalable data pipelines and cloud analytics solutions 
-</p>
+Data Engineer | Data Analyst | Applied Data Scientist
+Databricks · PySpark · Azure · SQL · Delta Lake · Big Data · Data Governance · Lakehouse Architecture
 
----
+🚀 Building scalable data platforms, analytics systems, and data science solutions across multiple industries and enterprise data ecosystems.
 
-## 🚀 About Me
+🚀 About Me
 
-- 💼 Data Engineer with 4+ years of experience as Data Engineer
-- ⚡ Specialized in **Databricks, PySpark, SQL & Azure Cloud**
-- 🔥 Experienced in building scalable **ETL/ELT pipelines**
-- ☁️ Working with **Delta Lake, Data Warehousing & Big Data**
-- 📊 Passionate about data transformation, optimization & analytics
-- 🎯 Open to Data Engineering opportunities worldwide
+💼 Data professional with 4+ years of experience across Data Engineering, Analytics, and Applied Data Science
+⚡ Strong expertise in Python, SQL, PySpark, Databricks, and Cloud Platforms (Azure & AWS)
+🔥 Experienced in building end-to-end ETL/ELT pipelines, analytics products, and data science workflows
+☁️ Skilled in Lakehouse architecture, Delta Lake, and modern data governance frameworks
+📊 Strong background in data analytics, statistical modelling, and machine learning pipelines
+🎯 Focused on delivering scalable, production-grade, and insight-driven data systems
 
----
+🌍 Industry Experience (Multi-Domain)
 
-## 🛠️ Tech Stack
+Experienced working with diverse datasets and industry domains, including:
 
+🏦 Financial Services (Banking, Credit Risk, Portfolio Analytics)
+🛡️ Insurance (Risk modelling, claims analytics, underwriting data)
+📺 Digital Media & Streaming (engagement, content analytics, user behaviour)
+🛒 Retail & E-commerce (sales analytics, customer behaviour, forecasting)
+🏭 Enterprise & Operations (process analytics, KPI systems, reporting platforms)
+🌐 Cross-domain public & third-party datasets (multi-source data integration)
 
-<p align="left">
+👉 Skilled in adapting data solutions to any industry dataset, schema, or business problem
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+🧠 Core Expertise
+💻 Data Engineering & Programming
 
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+Python (Pandas, NumPy, Scikit-learn) · SQL · PySpark · Data Modelling · Feature Engineering · Performance Optimization · Distributed Computing
 
-<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+📊 Data Analytics & Data Science
 
-<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+Exploratory Data Analysis (EDA) · Statistical Analysis · Time Series Analysis · Regression · Classification · Predictive Analytics · KPI Modelling · Root Cause Analysis
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+⚙️ Data Engineering Systems
 
-<img src="https://img.shields.io/badge/Delta%20Lake-0A84FF?style=for-the-badge"/>
+ETL / ELT Pipelines · Apache Spark · Databricks · Delta Lake · Medallion Architecture · Apache Airflow · API Integration · Data Warehousing
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+☁️ Cloud & Data Platforms
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+Azure Databricks · Azure Data Factory · Azure Synapse · ADLS Gen2 · AWS S3 · BigQuery · MongoDB
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+📈 BI & Analytics Products
 
-</p>
+Power BI · Tableau · Streamlit · Dash · Data Dashboards · Self-service Analytics · Decision Support Systems
 
----
+🔐 Data Governance & DevOps
 
-## 📌 Core Skills
+Git · CI/CD (Azure DevOps) · Unit Testing (PyTest) · Data Quality Frameworks · Monitoring & Logging · Unity Catalog · Data Lineage · Production Support
 
-✔️ ETL / ELT Pipelines  
-✔️ Data Engineering  
-✔️ Big Data Processing  
-✔️ Apache Spark  
-✔️ Workflow Automation  
-✔️ Data Warehousing  
-✔️ Data Modeling  
-✔️ Performance Optimization  
-✔️ Cloud Analytics  
-✔️ Azure Data Factory  
-✔️ Delta Lake Architecture  
-✔️ Data Transformation  
+💼 Professional Experience
+🟦 Data Engineer — Quantix IT (UK Enterprise Client)
 
----
+Mar 2025 – Present
 
-## 📂 Featured Projects
+Built scalable analytics platforms using Python, SQL, PySpark, Databricks, Tableau, Power BI
+Delivered production systems used by 2,000+ daily users across analytics and reporting domains
+Owned full lifecycle: ingestion → transformation → orchestration → deployment → monitoring
+Developed reusable ETL frameworks → improved delivery speed by 40%
+Implemented observability using Azure Monitor + Databricks logging → reduced downtime by 20%
+Built KPI models, statistical analysis pipelines, and time-series analytics systems
+Optimized Spark & SQL performance → improved query speed by 40%
+Ensured production stability using RCA, monitoring, and automated recovery workflows
+Worked across governance frameworks including Delta Lake & Unity Catalog
+🟩 Data Analyst → Data Engineer — Galytix (Multi-Industry Data Systems)
 
-#### 🔹 Databricks ETL Pipeline
-Built scalable ETL pipelines using Databricks & PySpark for large-scale data processing.
+Jun 2021 – Jan 2025
 
-#### 🔹 Azure Data Engineering Project
-Created cloud-based data workflows using Azure Data Factory and Delta Lake.
+Built analytics platforms across 30,000+ multi-domain entities
+Designed and delivered dashboards and data products across finance, risk, and enterprise datasets
+Built scalable ETL pipelines integrating:
+Structured enterprise data
+External APIs
+Time-series and event-based datasets
+Developed AI-assisted analytics workflows reducing manual analysis time from hours → minutes
+Applied statistical modelling, feature engineering, and predictive analytics across datasets
+Built production-grade Python frameworks with modular design and Git versioning
+Implemented monitoring, logging, alerting, and RCA systems for data reliability
+Worked with stakeholders across multiple industries and domains to translate business needs into data solutions
+Ensured data quality, governance, and reproducibility standards across pipelines
+🚀 Projects
+📊 Multi-Domain Data Intelligence Platform
+Built end-to-end analytics system using Python, Databricks, and Delta Lake
+Integrated datasets across multiple domains (financial, operational, behavioural, external APIs)
+Designed scalable Medallion architecture (Bronze → Silver → Gold)
+Built unified analytics layer for dashboards and reporting systems
+Enabled cross-domain data insights and decision support systems
+🎓 Education
 
-#### 🔹 Power BI Analytics Dashboard
-Developed interactive dashboards for business insights and reporting.
+🎓 M.Sc. Data Science & Computational Intelligence
+Coventry University, UK
 
-#### 🔹 Data Warehouse Solution
-Designed optimized star-schema models and analytics-ready datasets.
+Machine Learning · AI · NLP · Big Data · Statistics · Spark · Deep Learning · Data Visualization
 
-<!--
----
+🎓 BCA (Computer Applications)
+Guru Jambheshwar University, India
 
-  # 📈 GitHub Stats
-  
-  <p align="center">
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-  
-  </p>
--->
----
+Computer Science · Mathematics · Programming Foundations
 
-# 🌍 Connect With Me
+🏅 Certifications
+Databricks Fundamentals Certification
+Postgraduate Certification in Data Science — IIIT Bangalore
+Data Engineering Certification — Riva Data UK
+📬 Connect With Me
 
-<p align="left">
+💼 LinkedIn: https://linkedin.com/in/your-profile
+💻 GitHub: https://github.com/your-profile
+📧 Email: poojanain.data@gmail.com
 
-<a href="https://www.linkedin.com/in/pooja-16b277201/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+⭐ Closing Statement
 
-<a href="poojapooja200018@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/poojanain00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-<!--
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue&style=for-the-badge)
-
----
--->
-
-#### ⭐“Turning raw data into meaningful insights through scalable engineering.”
-
-
-
-<!--
-**maheshshende-data/maheshshende-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+“Transforming complex, multi-domain data into scalable, reliable, and insight-driven systems through engineering, analytics, and applied data science.”
