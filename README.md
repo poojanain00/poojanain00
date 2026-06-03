@@ -11,19 +11,15 @@ Azure · Databricks · PySpark · SQL · Delta Lake · Big Data · Analytics
 <p align="left">
   
   <a href="https://www.linkedin.com/in/pooja-nain-16b277201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pooja%20Nain-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
   <a href="https://github.com/poojanain00" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-poojanain00-black?style=for-the-badge&logo=github" />
   </a>
   
   <a href="mailto:poojanain.data@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   
   <a href="https://pooja-nain-data-engineer-ixs2u01.gamma.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?style=for-the-badge&logo=vercel" />
   </a>
 
 </p>
