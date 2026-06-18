@@ -33,7 +33,7 @@ Azure · Databricks · PySpark · SQL · Delta Lake · Big Data · Analytics
 
 ## ⚡ About Me
 
-- 💼 4+ years in Data Engineering, Analytics & Applied Data Science  
+- 💼 5+ years in Data Engineering, Analytics & Applied Data Science  
 - 🌍 Experience across Finance, Insurance, Digital Media & Enterprise datasets  
 - ☁️ Strong in Azure, Databricks, AWS, and Lakehouse architecture  
 - 📊 Build end-to-end ETL/ELT pipelines & analytics platforms  
